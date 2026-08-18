@@ -1,0 +1,1 @@
+just replace this with the file in Faraway Celesphia V2.0\resources\app\project\js
